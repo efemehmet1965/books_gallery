@@ -1,0 +1,19 @@
+Bir website oluşturacağım bu süreçte benim asistanım olmanı istiyorum.
+Bu website Kitap Galeri formatında olacaktır. Sitede CSS, HTML ve Javascript kullanmanı istiyorum.
+İlk olarak sitenin üstünde bir bar oluştur, en soluna logo koyabileceğim bir bölme oluştur hemen onun sağına yeşil renkte iletişim butonu yerleştir.
+Sitenin içeriğine gelirsek bir kitap fotoğrafı olacak ve altında kitabın ismi olacak.
+Kitap fotoğrafının üstüne mause imlecini getirdiğimde görsel büyüsün.
+Kitap isminin üstüne tıkladığımda modal çıksın karşıma.
+Her kitap için ayrı bir modal olsun.
+Her satıra ortalama 6-8 kitap sığsın.
+
+CHATGPT - 4 
+-----------------------------------------------------------------------------------------------------------------
+
+İstediğimi tam veremedin lakin bir kaç düzenleme yaptım ben. Senin eklemeni istediğim bir kaç şey var.
+Mobil uyumlu olmasını istiyorum.
+Mobil uyumda telefon ekranında sadece 1 kitap görünsün yanyana görünmesine gerek yok.
+Ek olarak üst barda aynı şekilde görünsün.
+Üstte belirttiğim işlemi gerçekleştirecek CSS kodunu verir misin ?
+
+CHATGPT - 4
